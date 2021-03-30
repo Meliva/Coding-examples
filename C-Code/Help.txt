@@ -1,0 +1,3 @@
+To navigate to folder or other locations: cd
+To compile a c program: gcc*filename*.c
+To execute a compiled c program: ./*compiled program name*   (.out does not work) 
