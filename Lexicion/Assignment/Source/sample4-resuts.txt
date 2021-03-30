@@ -1,0 +1,172 @@
+The pattern:
+ ma?
+ May result in the output:
+ man 2
+ man 2
+ map 1
+ mat 1
+ may 1
+The pattern:
+ ?o?
+ May result in the output:
+ for 1
+ not 2
+ not 2
+ too 1
+ you 5
+ you 5
+ zoo 1
+The pattern:
+ mr*
+ May result in the output:
+ mr 3
+ mr 3
+ mrs 1
+The pattern:
+ i*
+ May result in the output:
+ i 1
+ impatiently 1
+ in 3
+ in 3
+ invitation 1
+ is 5
+ is 5
+ it 5
+ it 5
+The pattern:
+ ?ear*
+ May result in the output:
+ dear 1
+ heard 1
+ hearing 1
+ wearing 1
+The pattern:
+ ?e
+ May result in the output:
+ be 2
+ be 2
+ he 2
+ he 2
+ me 2
+ me 2
+The pattern:
+ ?ea*
+ May result in the output:
+ dear 1
+ heard 1
+ hearing 1
+ reading 1
+ wearing 1
+The pattern:
+ ??t
+ May result in the output:
+ but 1
+ cat 1
+ fat 1
+ hat 1
+ let 1
+ mat 1
+The pattern:
+ a*
+ May result in the output:
+ a 11
+ a 11
+ about 1
+ acknowledged 1
+ all 1
+ also 1
+ and 6
+ and 6
+ answer 1
+ at 2
+ at 2
+ austen 1
+The pattern:
+ d*
+ May result in the output:
+ daughters 1
+ day 1
+ do 1
+ drinking 1
+The pattern:
+ ?i?
+ May result in the output:
+ him 1
+ his 3
+ his 3
+The pattern:
+ ?a?
+ May result in the output:
+ can 1
+ cat 1
+ day 1
+ fat 1
+ had 1
+ has 2
+ has 2
+ hat 1
+ map 1
+ may 1
+ was 1
+The pattern:
+ pr*
+ May result in the output:
+ prejudice 1
+ pride 1
+ property 1
+The pattern:
+ ?o
+ May result in the output:
+ do 1
+ no 2
+ no 2
+ so 1
+ to 4
+ to 4
+The pattern:
+ ??e
+ May result in the output:
+ one 2
+ one 2
+ see 1
+ she 2
+ she 2
+ the 5
+ the 5
+The pattern:
+ ?e*
+ May result in the output:
+ been 1
+ bennet 3
+ bennet 3
+ feelings 1
+ here 1
+ let 1
+ meet 1
+ neighbourhood 1
+ netherfield 1
+ reading 1
+ replied 1
+ returned 1
+ see 1
+ tell 1
+ well 1
+ yes 1
+ zebras 2
+ zebras 2
+The pattern:
+ yz*
+ May result in the output:
+ the pattern: has no words in here to match
+The pattern:
+ xg?
+ May result in the output:
+ the pattern: has no words in here to match
+The pattern:
+ ?sz?
+ May result in the output:
+The pattern:
+ ?yt*
+ May result in the output:
+ the pattern: has no words in here to match
